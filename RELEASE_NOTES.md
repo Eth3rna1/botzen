@@ -1,8 +1,7 @@
-# Changelog
+# Release Notes
 
 
-## [Unreleased]
-### Added
+## Added
 - Implemented the `automation` module containing necessary
     abstractions for IO and Web automation
 - Made the tests directory
